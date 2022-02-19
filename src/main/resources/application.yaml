@@ -1,0 +1,7 @@
+jasypt:
+  encryptor:
+    bean: jasyptEncryptor
+
+# Set the variables to encrypted values.
+# When the variable are used, they are automatically decrypted.
+# <<e.g.>> value: ENC(kvv6ohCWvCL6k6KCMluQA/Em0QrkiuGjlAhyo/FTOKtU2B0s1K0Hmt9EdU/izOvq)
